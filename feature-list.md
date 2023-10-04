@@ -1,2 +1,2 @@
-1.오리너구리
-2.셰퍼드
+1.orynerguri
+2.seaped
